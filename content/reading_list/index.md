@@ -5,7 +5,21 @@ multilingual: false
 
 <!-- Seneca's Complete Epistles (Lucius Annaeus Seneca, trans. R.L. Gummere) -->
 
+**2024:**\
+Mit der Sonne um die Welt: Der Jahrhundertflug der SolarImpulse (Bertrand Piccard, André Borschberg)\
+Indigenous Continent (Pekka Hämäläinen) 
+
 **2023:**\
+Dashing for the Post: The Letters of Patrick Leigh Fermor (ed. Adam Sisman)\
+Nellie: Letters from Africa (Elspeth Huxley)\
+Out in the Midday Sun (Elspeth Huxley)\
+The Mottled Lizard (Elspeth Huxley)\
+The Russo-Ukrainian War: The Return of History (Serhii Plokhy)\
+Killers of the Flower Moon: The Osage Murders and the Birth of the FBI (David Grann)\
+The Flame Trees of Thika (Elspeth Huxley)\
+Advice to a Young Scientist (P. Medawar)\
+Tiohtiá:ke (Michel Jean)\
+Australians, vol. I (Thomas Keneally)\
 The Voice to Parliament Handbook (Thomas Mayo and Kerry O'Brien)\
 Hoosiers: A New History (James H. Madison)\
 Follow the Rabbit-Proof Fence (Doris Pilkington)\
