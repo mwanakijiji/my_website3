@@ -50,13 +50,13 @@ home = ["HTML", "RSS", "Algolia"]
   
   [[params.addtional_menus]]
   title =  "RESEARCH"
-  href =  "/research/"
+  href =  "/research"
   [[params.addtional_menus]]
   title =  "CV"
-  href =  "doc/cv_20230611.pdf"
+  href =  "/cv"
   [[params.addtional_menus]]
-  title =  "LIFE"
-  href =  "/about/"
+  title =  "ABOUT"
+  href =  "/about"
 
 [outputFormats.Algolia]
 baseName = "algolia"
