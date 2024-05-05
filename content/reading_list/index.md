@@ -6,6 +6,9 @@ multilingual: false
 <!-- Seneca's Complete Epistles (Lucius Annaeus Seneca, trans. R.L. Gummere) -->
 
 **2024:**\
+Bird of Passage: : Recollections of a Physicist (Rudolf Peierls)\
+Im Westen Nichts Neues (Erich Maria Remarque)\
+Joe Biden: American Dreamer (Evan Osnos)\
 Mit der Sonne um die Welt: Der Jahrhundertflug der SolarImpulse (Bertrand Piccard, André Borschberg)\
 Indigenous Continent (Pekka Hämäläinen) 
 
