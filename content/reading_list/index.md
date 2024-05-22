@@ -6,6 +6,7 @@ multilingual: false
 <!-- Seneca's Complete Epistles (Lucius Annaeus Seneca, trans. R.L. Gummere) -->
 
 **2024:**\
+A Day in the Life of Abed Salama: A Palestine Story (Nathan Thrall)\
 Bird of Passage: : Recollections of a Physicist (Rudolf Peierls)\
 Im Westen Nichts Neues (Erich Maria Remarque)\
 Joe Biden: American Dreamer (Evan Osnos)\
