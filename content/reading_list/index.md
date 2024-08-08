@@ -6,6 +6,11 @@ multilingual: false
 <!-- Seneca's Complete Epistles (Lucius Annaeus Seneca, trans. R.L. Gummere) -->
 
 **2024:**\
+Knife: Meditations After an Attempted Murder (Salman Rushdie)\
+The Ship Beneath the Ice: The Discovery of Shackleton's Endurance (Mensun Bound)\
+Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System--And Themselves (Andrew Sorkin)\
+Hiroshima (John Hersey)\
+Histories of the Hanged: The Dirty War in Kenya and the End of Empire (David Anderson)\
 A Day in the Life of Abed Salama: A Palestine Story (Nathan Thrall)\
 Bird of Passage: : Recollections of a Physicist (Rudolf Peierls)\
 Im Westen Nichts Neues (Erich Maria Remarque)\
