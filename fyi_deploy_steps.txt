@@ -1,0 +1,17 @@
+[In the my_website repository, do]
+
+hugo server -D
+
+[Edit files, look at webpage on local.]
+
+[When satisfied with the way the website looks, deploy it to the public repository]
+
+bash deploy.sh
+
+[... and that should be it! Note that it's not strictly necessary to commit and push to my_website repo. Note also that that last bash step uses a script to do the following:]
+
+hugo -D -d ../mwanakijiji.github.io
+
+[The public repository should have committed and pushed to git. But if not, cd to that public repository, and commit and push changes]
+
+[... There is another way of doing this using the deploy_old.sh script in my_website repo, but is more finicky.]

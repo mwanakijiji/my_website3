@@ -5,7 +5,7 @@ multilingual: false
 
 \[[**ADS Publications**](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-3819-0076&sort=date+desc)\]
 
-I am a postdoc at the University of Sydney, where I am PI of the 
+I am a postdoc at the University of Sydney, where I work on the 
 [GLINT](https://academic.oup.com/mnras/article/491/3/4180/5638873)
 nulling interferometer instrument on the Subaru Telescope. GLINT uses integrated photonics technology 
 to miniaturize what used to only be done with bulk optics, and our Australia-based GLINT gang is pushing the technology to ever greater 
