@@ -6,6 +6,8 @@ multilingual: false
 <!-- Seneca's Complete Epistles (Lucius Annaeus Seneca, trans. R.L. Gummere) -->
 
 **2024:**\
+The Internationalists: The Fight to Restore American Foreign Policy After Trump (Alexander Ward)\
+Challenger: A True Story of Heroism and Disaster on the Edge of Space (Adam Higginbotham)\
 Knife: Meditations After an Attempted Murder (Salman Rushdie)\
 The Ship Beneath the Ice: The Discovery of Shackleton's Endurance (Mensun Bound)\
 Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System--And Themselves (Andrew Sorkin)\
