@@ -6,6 +6,10 @@ multilingual: false
 <!-- Seneca's Complete Epistles (Lucius Annaeus Seneca, trans. R.L. Gummere) -->
 
 **2024:**\
+Ice Ghosts: The Epic Hunt for the Lost Franklin Expedition (Paul Watson)\
+On Call: A Doctor's Journey in Public Service (Anthony Fauci)\
+The Fight of His Life: Inside Joe Biden's White House (Chris Whipple)\
+The Songlines (Bruce Chadwick)\
 The Internationalists: The Fight to Restore American Foreign Policy After Trump (Alexander Ward)\
 Challenger: A True Story of Heroism and Disaster on the Edge of Space (Adam Higginbotham)\
 Knife: Meditations After an Attempted Murder (Salman Rushdie)\
