@@ -5,7 +5,27 @@ multilingual: false
 
 <!-- Seneca's Complete Epistles (Lucius Annaeus Seneca, trans. R.L. Gummere) -->
 
+**2025:**\
+A Stranger in Your Own City: Travels in the Middle East's Long War (Ghaith Abdul-Ahad)\
+The Assassin's Gate (George Packer)\
+Shadows on the Grass (Isak Dinesen)\
+Chasing New Horizons: Inside the Epic First Mission to Pluto (Alan Stern and David Grinspoon)\
+On Tyrrany (Timothy Snyder)\
+West with the Night (Beryl Markham)\
+Los Alamos: The Ranch School Years, 1917-1943 (John Wirth and Linda Aldrich)\
+The House at Otowi Bridge: The Story of Edith Wharton and Los Alamos (Peggy Pond Church)\
+1984 (George Orwell)\
+In a Sunburned Country (Bill Bryson)\
+The Ghosts of Roebuck Bay (Ian Shaw)\
+The Explorers (Ed. Tim Flannery)\
+The Usefulness of Useless Knowledge (Abraham Flexner, Robbert Dijkgraaf)\
+1788 (Watkin Tench)\
+Inside Pine Gap (David Rosenberg)\
+Breaking Through: My Life in Science (Katalin Karikó)\
+Guns of August (Barbara W. Tuchman)
+
 **2024:**\
+War (Bob Woodward)\
 Ice Ghosts: The Epic Hunt for the Lost Franklin Expedition (Paul Watson)\
 On Call: A Doctor's Journey in Public Service (Anthony Fauci)\
 The Fight of His Life: Inside Joe Biden's White House (Chris Whipple)\
