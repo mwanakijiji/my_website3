@@ -6,6 +6,7 @@ multilingual: false
 <!-- Seneca's Complete Epistles (Lucius Annaeus Seneca, trans. R.L. Gummere) -->
 
 **2025:**\
+Lord Delamere and the Making of Kenya, 2 vols. (Elspeth Huxley)\
 A Stranger in Your Own City: Travels in the Middle East's Long War (Ghaith Abdul-Ahad)\
 The Assassin's Gate (George Packer)\
 Shadows on the Grass (Isak Dinesen)\
