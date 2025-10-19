@@ -3,4 +3,4 @@ layout: page
 multilingual: false
 ---
 
-\[[**CV**](/doc/cv_20230611.pdf)\] Last update: June 12, 2023
+\[[**CV**](/doc/cv_20250707.pdf)\] Last update: July 7, 2025

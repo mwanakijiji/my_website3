@@ -2,42 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mwanakijiji.github.io/</loc>
+    <loc>http://localhost:1313/2023/10/02/aew9/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2023-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2023/06/16/first_gens/</loc>
+    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2022/04/01/phys-today/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mwanakijiji.github.io/post/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mwanakijiji.github.io/2022/04/01/phys-today/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mwanakijiji.github.io/2022/03/18/exoexplorer/</loc>
+    <loc>http://localhost:1313/2022/03/18/exoexplorer/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mwanakijiji.github.io/2021/11/30/our-universe-revealed/</loc>
+    <loc>http://localhost:1313/2021/11/30/our-universe-revealed/</loc>
     <lastmod>2021-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mwanakijiji.github.io/2021/09/30/krapf-1857/</loc>
+    <loc>http://localhost:1313/2021/09/30/krapf-1857/</loc>
     <lastmod>2021-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mwanakijiji.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://mwanakijiji.github.io/cv/</loc>
+    <loc>http://localhost:1313/cv/</loc>
   </url><url>
-    <loc>https://mwanakijiji.github.io/notes/</loc>
+    <loc>http://localhost:1313/kenya/</loc>
   </url><url>
-    <loc>https://mwanakijiji.github.io/reading_list/</loc>
+    <loc>http://localhost:1313/notes/</loc>
   </url><url>
-    <loc>https://mwanakijiji.github.io/research/</loc>
+    <loc>http://localhost:1313/reading_list/</loc>
   </url><url>
-    <loc>https://mwanakijiji.github.io/search/placeholder/</loc>
+    <loc>http://localhost:1313/research/</loc>
   </url><url>
-    <loc>https://mwanakijiji.github.io/categories/</loc>
+    <loc>http://localhost:1313/search/placeholder/</loc>
   </url><url>
-    <loc>https://mwanakijiji.github.io/archive/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://mwanakijiji.github.io/search/</loc>
+    <loc>http://localhost:1313/archive/</loc>
   </url><url>
-    <loc>https://mwanakijiji.github.io/tags/</loc>
+    <loc>http://localhost:1313/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
